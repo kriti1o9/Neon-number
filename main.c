@@ -25,3 +25,11 @@ int main()
 
     return 0;
 }
+
+o/p:
+
+Enter Number: 9
+9 is a neon number.
+Enter Number: 19
+19 is NOT a neon number.
+
